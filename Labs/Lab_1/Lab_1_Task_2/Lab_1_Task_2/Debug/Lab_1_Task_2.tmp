@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Debug/Lab_1_Task_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_1_Task_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_1_Task_2.map</FILE>
+  <FILE>Lab_1_Task_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</FILE><LINE>26</LINE></main>
+  <outer_loop><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</FILE><LINE>27</LINE></outer_loop>
+  <end><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</FILE><LINE>53</LINE></end>
+  <inner_loop><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</FILE><LINE>40</LINE></inner_loop>
+  <resume><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_1\Lab_1_Task_2\Lab_1_Task_2\Lab_1_Task_2.asm</FILE><LINE>35</LINE></resume>
+ </LABELS>
+</ASSEMBLER_INFO>

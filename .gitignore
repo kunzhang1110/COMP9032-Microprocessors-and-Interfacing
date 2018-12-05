@@ -1,0 +1,6 @@
+#exclude
+*.docx
+*.zip
+*.pptx
+/Lecture Notes
+/Reference

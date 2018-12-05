@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.46\AvrAssembler/Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Debug/Lab_4_task_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Debug/Lab_4_task_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Debug\Lab_4_task_3.map</FILE>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Debug\Lab_4_task_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Second_Counter><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>40</LINE></Second_Counter>
+  <Hole_Counter><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>42</LINE></Hole_Counter>
+  <RESET><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>194</LINE></RESET>
+  <EXT_INT2><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>124</LINE></EXT_INT2>
+  <TIMER3OVF><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>151</LINE></TIMER3OVF>
+  <NOTTIME><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>180</LINE></NOTTIME>
+  <lcd_command><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>376</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>396</LINE></lcd_wait>
+  <lcd_data><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>385</LINE></lcd_data>
+  <ENDOVF><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>184</LINE></ENDOVF>
+  <sleep_5ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>432</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>420</LINE></sleep_1ms>
+  <MAIN><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>250</LINE></MAIN>
+  <keyboard><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>254</LINE></keyboard>
+  <colloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>258</LINE></colloop>
+  <delay><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>265</LINE></delay>
+  <nextcol><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>288</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>278</LINE></rowloop>
+  <convert><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>293</LINE></convert>
+  <letters><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>307</LINE></letters>
+  <symbols><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>312</LINE></symbols>
+  <convert_end><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>327</LINE></convert_end>
+  <star><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>320</LINE></star>
+  <zero><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>324</LINE></zero>
+  <B1><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>343</LINE></B1>
+  <B2><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>349</LINE></B2>
+  <B3><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>354</LINE></B3>
+  <B4><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>358</LINE></B4>
+  <lcd_wait_loop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>402</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_4\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3\Lab_4_task_3.asm</FILE><LINE>425</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

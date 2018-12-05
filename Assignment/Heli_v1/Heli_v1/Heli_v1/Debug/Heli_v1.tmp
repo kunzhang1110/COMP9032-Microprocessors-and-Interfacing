@@ -1,0 +1,98 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Debug/Heli_v1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Debug/Heli_v1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Debug\Heli_v1.map</FILE>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Debug\Heli_v1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <content><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>41</LINE></content>
+  <sec_count><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>43</LINE></sec_count>
+  <second><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>45</LINE></second>
+  <distance><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>47</LINE></distance>
+  <RESET><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>221</LINE></RESET>
+  <TIMER3OVF><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>182</LINE></TIMER3OVF>
+  <NOTTIME><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>206</LINE></NOTTIME>
+  <update><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>513</LINE></update>
+  <display><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>654</LINE></display>
+  <ENDOVF><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>210</LINE></ENDOVF>
+  <lcd_command><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>874</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>894</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>930</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>918</LINE></sleep_1ms>
+  <lcd_data><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>883</LINE></lcd_data>
+  <on_ground><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>269</LINE></on_ground>
+  <Get_Keyboard><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>759</LINE></Get_Keyboard>
+  <take_off><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>277</LINE></take_off>
+  <flying><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>319</LINE></flying>
+  <fly_down><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>345</LINE></fly_down>
+  <fly_forward><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>349</LINE></fly_forward>
+  <fly_up><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>353</LINE></fly_up>
+  <fly_left><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>357</LINE></fly_left>
+  <fly_backward><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>361</LINE></fly_backward>
+  <fly_right><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>365</LINE></fly_right>
+  <fly_faster_0><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>369</LINE></fly_faster_0>
+  <fly_slower_0><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>372</LINE></fly_slower_0>
+  <fly_star_0><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>375</LINE></fly_star_0>
+  <land><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>378</LINE></land>
+  <fly_faster><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>388</LINE></fly_faster>
+  <fly_slower><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>410</LINE></fly_slower>
+  <fly_star><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>432</LINE></fly_star>
+  <fly_faster_set><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>403</LINE></fly_faster_set>
+  <fly_faster_resume><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>400</LINE></fly_faster_resume>
+  <fly_slower_set><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>425</LINE></fly_slower_set>
+  <fly_slower_resume><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>422</LINE></fly_slower_resume>
+  <hover><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>442</LINE></hover>
+  <fly_star_save><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>445</LINE></fly_star_save>
+  <Land_Display><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>452</LINE></Land_Display>
+  <dummy><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>503</LINE></dummy>
+  <update_LAND><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>546</LINE></update_LAND>
+  <update_UP><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>553</LINE></update_UP>
+  <update_DOWN><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>556</LINE></update_DOWN>
+  <update_LEFT><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>559</LINE></update_LEFT>
+  <update_RIGHT><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>562</LINE></update_RIGHT>
+  <update_FORWARD><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>565</LINE></update_FORWARD>
+  <update_BACKWARD><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>568</LINE></update_BACKWARD>
+  <store_update><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>571</LINE></store_update>
+  <landed><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>551</LINE></landed>
+  <check_update><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>578</LINE></check_update>
+  <crash_set_x><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>616</LINE></crash_set_x>
+  <crash_set_y><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>625</LINE></crash_set_y>
+  <crash_set_z><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>634</LINE></crash_set_z>
+  <crash_set_x_neg><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>621</LINE></crash_set_x_neg>
+  <crash_end><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>643</LINE></crash_end>
+  <crash_set_y_neg><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>630</LINE></crash_set_y_neg>
+  <crash_set_z_neg><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>639</LINE></crash_set_z_neg>
+  <Crash><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>706</LINE></Crash>
+  <crash_flash><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>737</LINE></crash_flash>
+  <sleep_long><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>938</LINE></sleep_long>
+  <keyboard><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>776</LINE></keyboard>
+  <colloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>780</LINE></colloop>
+  <delay><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>787</LINE></delay>
+  <nextcol><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>810</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>800</LINE></rowloop>
+  <convert><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>815</LINE></convert>
+  <letters><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>829</LINE></letters>
+  <symbols><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>834</LINE></symbols>
+  <convert_end><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>849</LINE></convert_end>
+  <star><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>842</LINE></star>
+  <zero><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>846</LINE></zero>
+  <lcd_wait_loop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>900</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>923</LINE></delayloop_1ms>
+  <sleep_long_loop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Assignment\Heli_v1\Heli_v1\Heli_v1\Heli_v1.asm</FILE><LINE>941</LINE></sleep_long_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

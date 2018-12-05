@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Debug/Lab_3_task_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Debug/Lab_3_task_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Debug\Lab_3_task_2.map</FILE>
+  <FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Debug\Lab_3_task_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>62</LINE></RESET>
+  <Timer0OVF><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>39</LINE></Timer0OVF>
+  <NotTwoSec><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>54</LINE></NotTwoSec>
+  <EndTimer><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>57</LINE></EndTimer>
+  <value><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>255</LINE></value>
+  <keyboard><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>76</LINE></keyboard>
+  <colloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>80</LINE></colloop>
+  <delay><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>87</LINE></delay>
+  <nextcol><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>110</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>100</LINE></rowloop>
+  <convert><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>115</LINE></convert>
+  <letters><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>130</LINE></letters>
+  <symbols><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>135</LINE></symbols>
+  <convert_end><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>150</LINE></convert_end>
+  <star><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>143</LINE></star>
+  <zero><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>147</LINE></zero>
+  <get_values><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>166</LINE></get_values>
+  <wait_release><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>156</LINE></wait_release>
+  <overflow_flash><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>235</LINE></overflow_flash>
+  <get_val1><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>188</LINE></get_val1>
+  <get_val2><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>215</LINE></get_val2>
+  <multiply><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>224</LINE></multiply>
+  <end><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>249</LINE></end>
+  <flashing><FILE>C:\Users\Lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_task_2\Lab_3_task_2\Lab_3_task_2.asm</FILE><LINE>246</LINE></flashing>
+ </LABELS>
+</ASSEMBLER_INFO>

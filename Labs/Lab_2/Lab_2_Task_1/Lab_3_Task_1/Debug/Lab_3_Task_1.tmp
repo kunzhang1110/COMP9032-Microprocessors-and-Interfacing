@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Debug/Lab_3_Task_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_3_Task_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_3_Task_1.map</FILE>
+  <FILE>Lab_3_Task_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>47</LINE></START>
+  <div><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>101</LINE></div>
+  <Q><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>110</LINE></Q>
+  <LOAD><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>54</LINE></LOAD>
+  <LOOP1><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>59</LINE></LOOP1>
+  <LOOP2><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>77</LINE></LOOP2>
+  <STORE><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>92</LINE></STORE>
+  <CAL><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>87</LINE></CAL>
+  <L2_CT><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>82</LINE></L2_CT>
+  <END><FILE>C:\Users\lyn\Dropbox\UNSW IT\COMP9032 Microprocessors and Interfacing\Labs\Lab_3\Lab_3_Task_1\Lab_3_Task_1\Lab_3_Task_1.asm</FILE><LINE>97</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>
